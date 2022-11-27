@@ -1,7 +1,8 @@
 # Pratikum5
-
-| Nama  | Kelas | NIM   | Matkul |
-|Fikhrul| TI.22.A.2 | 312210062 | Bahasa Pemograman|
+Nama : Fikhrul
+Kelas : TI.22.A.2
+NIM : 312210062
+Matkul : Bahasa Pemograman
 
 ## Latihan 1
 
